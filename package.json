@@ -4,7 +4,9 @@
   "description": "Calculadora de impuestos personales",
   "main": "index.js",
   "dependencies": {
-    "hapi": "^8.0.0"
+    "hapi": "^8.0.0",
+    "jade": "^1.8.2",
+    "xml2js": "^0.4.4"
   },
   "devDependencies": {},
   "scripts": {
