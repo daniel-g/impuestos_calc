@@ -1,0 +1,23 @@
+{
+  "name": "impuestos_calc",
+  "version": "1.0.0",
+  "description": "Calculadora de impuestos personales",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:daniel-g/impuestos_calc.git"
+  },
+  "author": "Daniel Gaytan",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/daniel-g/impuestos_calc/issues"
+  },
+  "homepage": "https://github.com/daniel-g/impuestos_calc"
+}
